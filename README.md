@@ -9,7 +9,7 @@ The project is an iteration on my piece [Sonic Views](https://http://www.lucader
 
 Just download the patch open it with Max or the runtime and press the button yelling "ACTIVATE"
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sonic Views - Peaks Patch Screenshot")
+![alt text](https://github.com/lucaderosso/sonic-views-peaks/blob/master/screenshot.png "Sonic Views - Peaks Patch Screenshot")
 
 The patch will start printing in the position according to the current time of the day. The matrix is organized in 24 columns each of which has 3600 cells. The leftmost column is 00:00 the rightmost is 23:00. Say you are starting the patch at 12:30 then you'll be getting some values printed around the middle of the patch. 
 
@@ -17,4 +17,6 @@ If you see nothing printed that's because the space you're in is not loud enough
 
 ## Output
 
-If you let the patch running for 24 hours you'll get something like this
+If you let the patch running for 24 hours you'll get something like this:
+
+![alt text](https://github.com/lucaderosso/sonic-views-peaks/blob/master/twentyfourhours.png "Sonic Views - Peaks Output Image")
