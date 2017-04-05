@@ -20,3 +20,5 @@ If you see nothing printed that's because the space you're in is not loud enough
 If you let the patch running for 24 hours you'll get something like this:
 
 ![alt text](https://github.com/lucaderosso/sonic-views-peaks/blob/master/twentyfourhours.png "Sonic Views - Peaks Output Image")
+
+Enjoy, and if you have questions or want to share how you are using it reachout to hellotoluca@gmail.com
